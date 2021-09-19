@@ -1,7 +1,7 @@
 {
   "name": "AI Asset NFT of Everydays the first 5000 days",
   "description": "Create AI Assets as NFT for Everydays the first 5000 days",
-  "additional":"test"
+  "additional":"test",
   "tokens": [
     {
       "id": 0,
