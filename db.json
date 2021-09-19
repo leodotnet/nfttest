@@ -1,13 +1,14 @@
 {
   "name": "AI Asset NFT of Everydays the first 5000 days",
   "description": "Create AI Assets as NFT for Everydays the first 5000 days",
+  "additional":"test"
   "tokens": [
     {
       "id": 0,
       "external_url": "https://leodotnet.github.io/",
       "image": "ipfs://QmUzVrSBzJ1xGjGrDfActBkck3LdfEZH8BxmqQFLPu6c62",
       "name": "AI Media Aggregation Platform for Every Day: The First 5000 Days",
-      "description": "This is the creation of NFT Assets AI about \"Every day: the first 5000 days\" Media Aggregation Platform description；The description includes: the asset AI warrants of the media aggregation platform, through the value disclosure, auction, and adoption, to realize its value and the start of the project. The \"initiation of its value project\" means that the adopter has the right to initiate and initiate the AI physical engineering of the asset."
+      "description": "This is the creation of NFT Assets AI about \"Every day: the first 5000 days\" Media Aggregation Platform description. The description includes: the asset AI warrants of the media aggregation platform, through the value disclosure, auction, and adoption, to realize its value and the start of the project. The \"initiation of its value project\" means that the adopter has the right to initiate and initiate the AI physical engineering of the asset."
     }
   ]
 }
